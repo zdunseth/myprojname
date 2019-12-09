@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+myprojname.Rcheck/
+myprojname*.tar.gz
+myprojname*.tgz
