@@ -1,0 +1,6 @@
+^myprojname\.Rproj$
+^\.Rproj\.user$
+^myprojname\.Rcheck$
+^myprojname.*\.tar\.gz$
+^myprojname.*\.tgz$
+^LICENSE\.md$
